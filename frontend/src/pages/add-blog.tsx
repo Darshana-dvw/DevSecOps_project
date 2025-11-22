@@ -190,7 +190,7 @@ function AddBlog() {
             <input
               type="text"
               name="authorName"
-              placeholder="Shree Sharma"
+              placeholder="Darshana"
               className="w-full rounded-lg bg-slate-200 p-3 placeholder:text-sm placeholder:text-light-tertiary dark:bg-dark-card dark:text-slate-50 dark:placeholder:text-dark-tertiary"
               value={formData.authorName}
               onChange={handleInputChange}
